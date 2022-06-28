@@ -1,0 +1,8 @@
+com/hkmicroservices/customer/Customer.class
+com/hkmicroservices/customer/CustomerApplication.class
+com/hkmicroservices/customer/CustomerRegistrationRequest.class
+com/hkmicroservices/customer/CustomerConfig.class
+com/hkmicroservices/customer/CustomerRepository.class
+com/hkmicroservices/customer/CustomerController.class
+com/hkmicroservices/customer/Customer$CustomerBuilder.class
+com/hkmicroservices/customer/CustomerService.class

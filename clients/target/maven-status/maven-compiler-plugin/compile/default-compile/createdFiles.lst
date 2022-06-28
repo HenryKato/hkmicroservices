@@ -1,0 +1,4 @@
+com/hkmicroservices/clients/fraud/FraudCheckResponse.class
+com/hkmicroservices/clients/fraud/FraudClient.class
+com/hkmicroservices/clients/notification/NotificationFeignClient.class
+com/hkmicroservices/clients/notification/NotificationRequest.class

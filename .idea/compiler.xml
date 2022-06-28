@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apigateway" />
+        <module name="notification" />
+        <module name="clients" />
+        <module name="fraud" />
+        <module name="amqp" />
+        <module name="eureka-server" />
+        <module name="customer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="advancedmessagequeue" target="16" />
+      <module name="amqp" target="16" />
+      <module name="apigateway" target="16" />
+      <module name="clients" target="16" />
+      <module name="customer" target="16" />
+      <module name="eureka-server" target="16" />
+      <module name="fraud" target="16" />
+      <module name="hkmicroservices" target="16" />
+      <module name="notification" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

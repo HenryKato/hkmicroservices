@@ -1,0 +1,6 @@
+com/hkmicroservices/fraud/FraudApplication.class
+com/hkmicroservices/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/hkmicroservices/fraud/FraudCheckController.class
+com/hkmicroservices/fraud/FraudCheckHistoryRepository.class
+com/hkmicroservices/fraud/FraudCheckHistory.class
+com/hkmicroservices/fraud/FraudCheckService.class

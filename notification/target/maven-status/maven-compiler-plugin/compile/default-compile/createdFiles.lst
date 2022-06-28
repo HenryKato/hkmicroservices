@@ -1,0 +1,8 @@
+com/hkmicroservices/notification/NotificationController.class
+com/hkmicroservices/notification/NotificationApplication.class
+com/hkmicroservices/notification/rabbitmq/NotificationConsumer.class
+com/hkmicroservices/notification/NotificationRepository.class
+com/hkmicroservices/notification/Notification$NotificationBuilder.class
+com/hkmicroservices/notification/NotificationConfig.class
+com/hkmicroservices/notification/Notification.class
+com/hkmicroservices/notification/NotificationService.class
